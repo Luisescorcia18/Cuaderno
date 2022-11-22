@@ -43,3 +43,6 @@ Por favor, ayuda en esto, porque quiero intentar guardar mi proyecto usando git,
 
 
 Fuente: https://www.enmimaquinafunciona.com/pregunta/25385/archivo-global-git-config---eliminar-la-configuracion
+
+link 
+https://www.mclibre.org/consultar/informatica/lecciones/vsc-git-repositorio.html
