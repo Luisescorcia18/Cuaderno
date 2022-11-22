@@ -46,3 +46,6 @@ Fuente: https://www.enmimaquinafunciona.com/pregunta/25385/archivo-global-git-co
 
 link 
 https://www.mclibre.org/consultar/informatica/lecciones/vsc-git-repositorio.html
+
+#link de freecodecamp
+https://www.freecodecamp.org/espanol/news/guia-para-principiantes-de-git-y-github/
